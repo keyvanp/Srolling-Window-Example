@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    color: white;
+    font: 32px sans-serif;
+}
+
+nav {
+    position: fixed;
+    width: 100%;
+    background-color: black;
+    transform: translateZ(0);
+    height: 50px;
+}
+
+div {
+    padding-top: 50px;
+    background-color: cadetblue;
+}
+
+#anim {
+    font-size: 24px;
+}
